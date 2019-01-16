@@ -17,6 +17,6 @@ Work on teams with friends (do more pair programming.)
 
 Make sure I don't get lost in algorithms.  I.e. one can spend years perfecting an algorithm and lose sight of efficient implemementation
 
-Work on a product I beleive in
+Work on a product I believe in
 
 Try to blog more.  Journey of coding perhaps? 
